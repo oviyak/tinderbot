@@ -5,7 +5,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-#oviyarockz@hotmail.com
 driver = webdriver.Chrome(executable_path="C:/Users/oviya/Downloads/chromedriver_win32/chromedriver.exe")
 
 #FB login
